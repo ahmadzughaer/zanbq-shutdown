@@ -1,0 +1,38 @@
+body {
+    font-family:fantasy;
+    font-size: 1.2vmax;
+    background-color: #ffcccb;
+    color: #660066;
+    width: 90vw;
+    height: 90vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container {
+display: flex;
+width: 40vmax;
+height: 30vmax;
+border: solid 5px #660066;
+justify-content: center;
+flex-direction: column;
+background-color: #fff;
+}
+
+span {
+    color: rgb(69, 69, 219);
+    margin-left: 4%;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 20em;
+    height: 18em;
+    margin-left: 20%;
+}
